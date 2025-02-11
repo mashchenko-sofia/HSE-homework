@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100vw;
+    height: 100vh;
+}
+.box {
+    background: lightcoral;
+    padding: 10vw;
+    border-radius: 20vw;
+    color: white;
+    font-size: 10vw;
+}
